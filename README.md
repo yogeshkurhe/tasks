@@ -30,3 +30,8 @@
 # 2) Design Test:
 
     code is in "designtask" folder
+
+    Note: I didn't concentrate on the responsiveness due to your condition of "the left hand pane should always be 25% of the 
+    total width of the page, even when the browser resizes"
+
+    
