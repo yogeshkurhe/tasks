@@ -22,8 +22,8 @@
 
      c) Exception Errors: need to generate mentioned exceptions as per operations
 
-        solution: To throw mentioned exceptions, check relevant conditions & generate exception messages using statement
-                  "throw new Exception('msg');". Using same remaining exception conditions are done.
+        solution: To throw the mentioned exceptions, check relevant conditions & generate exception messages using 
+                  statement "throw new Exception('msg');". Using same remaining exception conditions are done.
 
         Next 4 conditions passed.  
                 
